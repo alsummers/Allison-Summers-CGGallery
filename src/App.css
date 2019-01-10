@@ -22,9 +22,9 @@
   font-size: large;
 }
 .image{
-  max-width: 500px;
+  max-width: 700px;
   min-width: 400px;
-  max-height: 500px;
+  max-height: 400px;
   margin: .2em;
 }
 @keyframes App-logo-spin {
