@@ -2,7 +2,7 @@
   "name": "als_cg_site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "alsummers.github.io/Allison_Summers_CGGallery/",
+  "homepage": "http://alsummers.github.io/Allison_Summers_CGGallery/",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "react": "^16.5.0",
